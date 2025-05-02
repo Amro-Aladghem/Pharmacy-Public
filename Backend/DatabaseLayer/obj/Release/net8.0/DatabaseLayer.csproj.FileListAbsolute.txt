@@ -1,0 +1,14 @@
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\bin\Release\net8.0\DatabaseLayer.deps.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\bin\Release\net8.0\DatabaseLayer.runtimeconfig.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\bin\Release\net8.0\DatabaseLayer.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\bin\Release\net8.0\DatabaseLayer.pdb
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\refint\DatabaseLayer.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.pdb
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\DatabaseLayer.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\DatabaseLayer\obj\Release\net8.0\ref\DatabaseLayer.dll

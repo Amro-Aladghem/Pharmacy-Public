@@ -1,0 +1,28 @@
+
+#His-card-container{
+    
+    background-color: rgba(128, 128, 128, 0.358);
+    border-radius: 8px;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+    direction: rtl;
+    gap: 5;
+    margin: 4px 4px;
+    width: 300px;
+    justify-content: end;
+    font-family:'Courier New', Courier, monospace
+}
+
+#his-links-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#his-ph-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 8px;
+    cursor: pointer;
+}

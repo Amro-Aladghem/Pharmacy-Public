@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiV/mjG0MAw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khaled\\Desktop\\Pharmacy web (backend)\\Security\\Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khaled\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "C:\\Users\\Khaled\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Khaled\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

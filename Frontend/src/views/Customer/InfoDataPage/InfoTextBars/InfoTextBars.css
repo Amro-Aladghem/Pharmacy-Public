@@ -1,0 +1,10 @@
+.input-field{
+    width: 350px;
+    font-size: 300px;
+}
+
+@media (max-width: 350px) {
+    .input-field {
+      width: 200px !important;
+    }
+  }

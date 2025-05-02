@@ -1,0 +1,14 @@
+.info-data-container{
+
+   width: 90%;
+   margin-left: 3.5%;
+   margin-right: 5%;
+   background-color: rgba(128, 128, 128, 0.251);
+   border-radius: 17px;
+   padding: 8px 8px;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+   margin-top: 5%;
+}

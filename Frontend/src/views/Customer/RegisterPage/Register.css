@@ -1,0 +1,18 @@
+#RegisterForm-container{
+    display: flex;
+    justify-content: center;
+}
+
+.Register-container{
+  align-items: center;
+  position: relative;
+  top:40px;
+}
+
+#btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    
+}

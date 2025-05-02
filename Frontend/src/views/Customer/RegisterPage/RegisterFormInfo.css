@@ -1,0 +1,16 @@
+#sign-up-form-register{
+    width: 400px;
+    height: 380px;
+    border-radius: 8px;
+    text-align: center;
+    padding:6px 6px;
+    box-shadow: 2px 5px 1px rgb(2, 205, 205);
+    background-color: rgb(255, 86, 114);
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

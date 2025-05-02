@@ -1,0 +1,11 @@
+#note-category-page{
+    border-radius: 20px;
+    width: 100%;
+    padding: 3px 3px;
+    background-color:rgb(255, 86, 114) ;
+    color: black;
+    display: flex;
+    align-items: center;
+    direction: rtl;
+    z-index: 0;
+}

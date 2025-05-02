@@ -1,0 +1,32 @@
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\appsettings.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Pharmacy Web API.exe
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Pharmacy Web API.deps.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Pharmacy Web API.runtimeconfig.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Pharmacy Web API.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Pharmacy Web API.pdb
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets\msbuild.Pharmacy Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets\msbuild.build.Pharmacy Web API.props
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pharmacy Web API.props
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Pharmacy Web API.props
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\scopedcss\bundle\Pharmacy Web API.styles.css
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy.EBD6E4F9.Up2Date
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\refint\Pharmacy Web API.dll
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.pdb
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\Pharmacy Web API.genruntimeconfig.cache
+C:\Users\Khaled\Desktop\Pharmacy web (backend)\Pharmacy Web API\obj\Release\net8.0\ref\Pharmacy Web API.dll

@@ -1,0 +1,123 @@
+
+#product-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+@media(max-width:600px){
+  #product-img{
+    width: 230px;
+    height: 230px;
+  }
+}
+
+
+
+.card__counter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    padding: 5px;
+    background: #666;
+    border-radius: 50px;
+    --main-color: #fff;
+  --bg-color: #323232;
+  }
+  
+  .card__counter-score, .card__btn {
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--main-color);
+  }
+  
+  .card__btn {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.1ms;
+  }
+  
+  .card__btn-plus {
+    cursor: pointer;
+    transition: background 0.1ms;
+  }
+
+  .card__btn:hover, 
+  .card__btn-plus:hover {
+      background-color:#323232;
+  }
+
+
+  .add-tocart-btn {
+    font-family: inherit;
+    font-size: 18px;
+    background: rgb(255, 86, 114);
+    color: black;
+    padding: 0.8em 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .add-tocart-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  .add-tocart-btn:active {
+    transform: scale(0.95);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .add-tocart-btn span {
+    display: block;
+    margin-left: 0.4em;
+    transition: all 0.3s;
+  }
+
+  #btns-container{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    row-gap: 1;
+    margin-top: 10px;
+    gap:30px;
+  }
+  
+  #check-delivery-container{
+    display: flex;
+    width: 96%;
+    padding: 8px 8px;
+    background-color: #86838329;
+    border-radius: 8px;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #ph-products-container{
+    display: flex;
+    overflow-x: auto; 
+    gap: 20px; 
+    padding: 16px;
+    margin-bottom: 50px;
+    align-items: center;
+
+  }
+
+  .secondry-bg{
+    background-color: rgb(9, 198, 198);
+    width: fit-content;
+    border-radius: 5px;
+    padding: 2px 2px;
+  }

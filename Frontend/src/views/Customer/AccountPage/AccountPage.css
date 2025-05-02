@@ -1,0 +1,9 @@
+#customer-container{
+ 
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px;
+    width: 100%;
+    align-items: center;
+}
+

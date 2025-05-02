@@ -1,0 +1,97 @@
+#sign-up-container{
+    width: 100%;
+    height: 85%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:75px;
+   
+}
+
+#sign-up-form{
+    width: 300px;
+    height: 430px;
+    border-radius: 8px;
+    text-align: center;
+    padding:6px 6px;
+    box-shadow: 2px 5px 1px rgb(2, 205, 205);
+    background-color: rgb(255, 86, 114);
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+/* From Uiverse.io by satyamchaudharydev */ 
+#sign-up-btn {
+    --primary-color: rgb(8, 176, 176);
+    --secondary-color: #fff;
+    --hover-color: #111;
+    --arrow-width: 10px;
+    --arrow-stroke: 2px;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 20px;
+    color: var(--secondary-color);
+    padding: 1em 1.8em;
+    background: var(--primary-color);
+    display: flex;
+    transition: 0.2s background;
+    align-items: center;
+    gap: 0.6em;
+    font-weight: bold;
+    width: 170px;
+    margin-top: 17px;
+  }
+  
+  #sign-up-btn .arrow-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #sign-up-btn .arrow {
+    margin-top: 1px;
+    width: var(--arrow-width);
+    background: var(--primary-color);
+    height: var(--arrow-stroke);
+    position: relative;
+    transition: 0.2s;
+  }
+  
+  #sign-up-btn .arrow::before {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    border: solid var(--secondary-color);
+    border-width: 0 var(--arrow-stroke) var(--arrow-stroke) 0;
+    display: inline-block;
+    top: -3px;
+    right: 3px;
+    transition: 0.2s;
+    padding: 3px;
+    transform: rotate(-45deg);
+  }
+  
+  #sign-up-btn:hover {
+    background-color: var(--hover-color);
+  }
+  
+  #sign-up-btn:hover .arrow {
+    background: var(--secondary-color);
+  }
+  
+  #sign-up-btn:hover .arrow:before {
+    right: 0;
+  }
+
+  button{
+    
+  }

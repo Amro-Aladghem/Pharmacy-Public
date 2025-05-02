@@ -1,0 +1,70 @@
+
+.main-btn {
+    --primary-color: rgb(8, 176, 176);
+    --secondary-color: #fff;
+    --hover-color: #111;
+    --arrow-width: 10px;
+    --arrow-stroke: 2px;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 20px;
+    color: var(--secondary-color);
+    padding: 1em 1.8em;
+    background: var(--primary-color);
+    display: flex;
+    transition: 0.2s background;
+    align-items: center;
+    gap: 0.6em;
+    font-weight: bold;
+    width: 100px;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+
+  .main-btn:disabled {
+    background-color: gray !important; 
+    color: white; 
+    cursor: not-allowed; 
+    opacity: 0.6;
+  }
+  
+  .main-btn .arrow-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .main-btn .arrow {
+    margin-top: 1px;
+    width: var(--arrow-width);
+    background: var(--primary-color);
+    height: var(--arrow-stroke);
+    position: relative;
+    transition: 0.2s;
+  }
+  
+  .main-btn .arrow::before {
+    content: "";
+    box-sizing: border-box;
+    position: absolute;
+    border: solid var(--secondary-color);
+    border-width: 0 var(--arrow-stroke) var(--arrow-stroke) 0;
+    display: inline-block;
+    top: -3px;
+    right: 3px;
+    transition: 0.2s;
+    padding: 3px;
+    transform: rotate(-45deg);
+  }
+  
+  .main-btn:hover {
+    background-color: var(--hover-color);
+  }
+  
+  .main-btn:hover .arrow {
+    background: var(--secondary-color);
+  }
+  
+  .main-btn:hover .arrow:before {
+    right: 0;
+  }

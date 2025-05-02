@@ -1,0 +1,39 @@
+.quantity-btn-countainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    padding: 5px;
+    background: #666;
+    border-radius: 50px;
+    --main-color: #fff;
+    --bg-color: #323232;
+    margin-right: auto;
+}
+
+.quantity-btn-score,
+.quantity__btn {
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--main-color);
+}
+
+.quantity__btn {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.1ms;
+}
+
+.quantity-btn-plus {
+    cursor: pointer;
+    transition: background 0.1ms;
+}
+
+.quantity__btn:hover,
+.quantity-btn-plus:hover {
+    background-color: #323232;
+}

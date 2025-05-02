@@ -1,0 +1,24 @@
+#option-card-container{
+  
+    display: flex;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.148);
+    border-radius: 15px;
+    padding: 3px 3px;
+    width: 350px;
+    margin: 4px 0px;
+    color: black;
+}
+
+#option-name{
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+@media (max-width: 350px) {
+    #option-card-container {
+      width: 200px !important;
+    }
+  }

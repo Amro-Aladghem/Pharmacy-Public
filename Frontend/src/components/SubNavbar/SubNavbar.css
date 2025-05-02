@@ -1,0 +1,13 @@
+
+#SubNav-container{
+    background-color:rgb(255, 86, 114) ;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+}
+
+#Sub-img{
+    width: 50px;
+    height: 50px;
+    margin-top: 3px;
+}

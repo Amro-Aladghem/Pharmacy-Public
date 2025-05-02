@@ -1,0 +1,41 @@
+#Nearer-Ph-section{
+    width: 90%;
+    padding: 10px 5px;
+    display: flex;
+    direction: rtl;
+    background-color:rgb(255, 86, 114) ;
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+#Nearer-section-img{
+
+    border-radius: 8px;
+    width: 70px;
+    height: auto;
+    flex-grow: 0.5;
+    
+}
+
+#Nearer-section-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex-grow: 0.5;
+}
+
+#Nearer-Ph-section-container{
+ display: flex;
+ justify-content: center;   
+}
+
+#main-popular-container{
+    display: flex;
+    overflow-x: auto; 
+    gap: 20px; 
+    padding: 16px;
+    margin-bottom: 6px;
+    align-items: stretch;
+}

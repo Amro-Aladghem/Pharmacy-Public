@@ -1,0 +1,10 @@
+#check-delivery-container {
+      display: flex;
+      width: 96%;
+      padding: 8px 8px;
+      background-color: #86838329;
+      border-radius: 8px;
+      align-items: center;
+      margin-bottom: 20px;
+}
+

@@ -1,0 +1,20 @@
+#Upper-nav-img{
+    width: 30px;
+    height: 30px;
+}
+
+#Upper-nav-contnier{
+    flex: grow 1; 
+    direction: rtl;
+    width: 100%;
+}
+
+#go-search-btn{
+
+ color: white;
+ background-color: rgb(1, 228, 228);
+ padding: 3px 3px;
+ margin-left: 2px;
+ border-radius: 6px;
+
+}
